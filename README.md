@@ -1,2 +1,2 @@
-# mccfw7.github.io
+# http//mccfw7.github.io
 my website
